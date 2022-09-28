@@ -187,16 +187,16 @@ for domain in domains:
         libId = "Invalid Foldername"
         githubid = "Invalid Foldername"
         try:
-            [githubid, name, lidID, year] = filename.split("_")
+            [githubid, name, libId, year] = filename.split("_")
         except ValueError:
             print(filename, "is not correct")
         if name == "Invalid Foldername":
             try:
-                [githubid, name, lidID] = filename.split("_")
+                [githubid, name, libId] = filename.split("_")
             except ValueError:
                 print(filename, "is not correct")
 
-        student = Student(name, githubid, lidID, domain, year)
+        student = Student(name, githubid, libId, domain, year)
         check_structure(os.path.join(home, os.path.join(domain, filename)), student)
         if student.completed:
             completed_student_list.append(student)
