@@ -1,6 +1,1 @@
-#include<stdio.h>
-int main()
-{
-	printf("Vibhuti");
-	return 0;
-}
+Vibhuti Kumar
