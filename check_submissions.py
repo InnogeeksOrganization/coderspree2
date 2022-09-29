@@ -75,7 +75,7 @@ def check_structure(path, student: Student):
 
 def write_to_readme(filename, students_list):
 
-    mdFile = MdUtils(file_name=filename, title="Coderspree_V2")
+    mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree2 🔥")
 
     mdFile.new_paragraph(
         mdFile.new_inline_image(
@@ -138,7 +138,7 @@ def write_to_readme(filename, students_list):
 
 def write_to_pendingReadme(filename, students_list):
 
-    mdFile = MdUtils(file_name=filename, title="Coderspree_V2")
+    mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree2 🔥")
 
     list_of_strings = ["Profile", "Name", "Domain", "Solved", "Year", "logs"]
 
