@@ -1,8 +1,8 @@
 # Guidelines for submission to Coderspree2.0
 
 > - Coderspree is an annual DSA practise season organized by Innogeeks.
-- It follows `pepcoding` [Pepcoding](www.pepcoding.com) modules and maintains weekly rankings.
-- Coderspree aims to Introduce Git & Github to beginners and make solving questions a daily habit.
+> - It follows `pepcoding` [Pepcoding](www.pepcoding.com) modules and maintains weekly rankings.
+> - Coderspree aims to Introduce Git & Github to beginners and make solving questions a daily habit.
 
 ## Name Convention
 
