@@ -78,7 +78,7 @@ def write_to_readme(filename, students_list):
     mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree2.0 🔥")
 #     ![Innogeeks Logo](https://user-images.githubusercontent.com/33064931/193105033-d03aa2e9-d4c3-4d02-b33e-466f3c567f39.png)
 
-    mdFile.new_line("by ![Innogeeks Logo](https://user-images.githubusercontent.com/33064931/193105033-d03aa2e9-d4c3-4d02-b33e-466f3c567f39.png)")
+    mdFile.new_line("<div><span>by</span><img src='https://user-images.githubusercontent.com/33064931/193105033-d03aa2e9-d4c3-4d02-b33e-466f3c567f39.png' style='vertical-align: middle;'></div>")
 
     mdFile.new_paragraph(
         mdFile.new_inline_image(
