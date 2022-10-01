@@ -10,4 +10,5 @@ while(n>0)
     n/=10;
 }
 cout<<c<<endl;
+return 0;
 }
