@@ -33,3 +33,5 @@ and so on....
 - Add your changes. **Only change the files under your folder's name** 
 - Commit the changes
 - Make a PR
+
+![Intro](https://user-images.githubusercontent.com/33064931/193407864-d5ffafcd-5d0c-4548-be56-b8730e734f00.png)
