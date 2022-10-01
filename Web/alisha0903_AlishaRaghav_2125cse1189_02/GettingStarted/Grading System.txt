@@ -14,4 +14,5 @@ int main()
     cout<<"meets expectations";
     else 
     cout<<"below par";
+return  0;
 }
