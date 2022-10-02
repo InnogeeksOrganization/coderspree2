@@ -17,3 +17,5 @@ Minimum problems to complete | **GettingStarted**: `5` |
 
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|1|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|5|
+|2|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|5|
