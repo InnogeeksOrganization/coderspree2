@@ -2,11 +2,12 @@
 using namespace std;
 int main(int argc, char const *argv[])
 {
-    int n;
-    cin>>n;
-     for (int i = 1; i <= n; i++) {
-        if (sqrt(i) == (int)sqrt(i))
-            cout << i << endl;
-     }
+    int r;
+    cin>>r;
+    for (int i = 1; i*i < r; i++)
+    {
+        cout<<i*i<<"\n";
+    }
+    
     return 0;
 }
