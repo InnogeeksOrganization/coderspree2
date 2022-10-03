@@ -1,8 +1,8 @@
 import java.util.*;
 
-public class HelloWorld {
-    public static void public static void main(String[] args) {
-        system.out.println("Hello World")
+public class Main {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello World");
     }
 
 }
