@@ -7,6 +7,9 @@ Welcome to Coderspree2.0 🔥
 ![Status Badge](https://github.com/InnogeeksOrganization/coderspree/actions/workflows/checkSubmission.yml/badge.svg)  
 
 
+## **This is a club only repo, limmited only to members of Innogeeks.**  
+
+
 **Please visit the [Guide](./Guide/README.md)**  
 
 
