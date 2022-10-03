@@ -12,3 +12,4 @@ Welcome to Coderspree2.0 🔥
 |![NancySrivastava](https://avatars.githubusercontent.com/u/103940060?v=4&s=100)|[NancySrivastava](https://github.com/Nansri108)|ML|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![AnanyaSrivastava](https://avatars.githubusercontent.com/u/107556798?v=4&s=100)|[AnanyaSrivastava](https://github.com/Ananya3632)|Android|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![Riyasinghsirohi](https://avatars.githubusercontent.com/u/103629772?v=4&s=100)|[Riyasinghsirohi](https://github.com/riyasinghsirohi)|Web|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
+|![VibhutiKumar](https://avatars.githubusercontent.com/u/97297327?v=4&s=100)|[VibhutiKumar](https://github.com/vibhuti-k)|ML|0|2|`GettingStarted` Folder not found, |
