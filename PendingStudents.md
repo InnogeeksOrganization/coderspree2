@@ -11,4 +11,3 @@ Welcome to Coderspree2.0 🔥
 |![AnujGupta](https://avatars.githubusercontent.com/u/106159652?v=4&s=100)|[AnujGupta](https://github.com/seriouslyanuj)|IOT|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![NancySrivastava](https://avatars.githubusercontent.com/u/103940060?v=4&s=100)|[NancySrivastava](https://github.com/Nansri108)|ML|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![VibhutiKumar](https://avatars.githubusercontent.com/u/97297327?v=4&s=100)|[VibhutiKumar](https://github.com/vibhuti-k)|ML|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
-|![AnanyaSrivastava](https://avatars.githubusercontent.com/u/107556798?v=4&s=100)|[AnanyaSrivastava](https://github.com/Ananya3632)|Android|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
