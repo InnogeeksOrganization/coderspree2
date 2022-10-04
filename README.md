@@ -23,7 +23,8 @@ Minimum problems to complete | **GettingStarted**: `5` |
 |2|![Riyasinghsirohi](https://avatars.githubusercontent.com/u/103629772?v=4&s=100)|[Riyasinghsirohi](https://github.com/riyasinghsirohi)|Web|2|7|
 |3|![ShreyashSrivastava](https://avatars.githubusercontent.com/u/99384516?v=4&s=100)|[ShreyashSrivastava](https://github.com/ShreyashSriv)|Web|2|7|
 |4|![Aryan](https://avatars.githubusercontent.com/u/97680841?v=4&s=100)|[Aryan](https://github.com/aryanxsri)|AR-VR|2|6|
-|5|![SnehaAggarwal](https://avatars.githubusercontent.com/u/104908202?v=4&s=100)|[SnehaAggarwal](https://github.com/decode08)|Android|2|6|
-|6|![varunagarwal](https://avatars.githubusercontent.com/u/104075461?v=4&s=100)|[varunagarwal](https://github.com/1010varun)|Web|2|6|
-|7|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|5|
-|8|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|5|
+|5|![KapilChaudhary](https://avatars.githubusercontent.com/u/72185805?v=4&s=100)|[KapilChaudhary](https://github.com/chaudharykapil)|IOT|2|6|
+|6|![SnehaAggarwal](https://avatars.githubusercontent.com/u/104908202?v=4&s=100)|[SnehaAggarwal](https://github.com/decode08)|Android|2|6|
+|7|![varunagarwal](https://avatars.githubusercontent.com/u/104075461?v=4&s=100)|[varunagarwal](https://github.com/1010varun)|Web|2|6|
+|8|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|5|
+|9|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|5|
