@@ -1,0 +1,23 @@
+import java.util.*;
+
+public class Main{
+
+public static void main(String[] args) {
+    Scanner sc=new Scanner(System.in);
+    int n=sc.nextInt();
+    primefactors(n);
+ }
+ public static void primefactors(int n)
+ {
+     int x=2;
+     while(n>1)
+     {
+         if(n%x==0)
+         {
+             System.out.print(x+" ");
+             n=n/x;
+         }
+         else x++;
+     }
+ }
+}
