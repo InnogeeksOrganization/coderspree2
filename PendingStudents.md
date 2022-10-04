@@ -6,7 +6,6 @@ Welcome to Coderspree2.0 🔥
 
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|![PranjalRaj](https://avatars.githubusercontent.com/u/103522343?v=4&s=100)|[PranjalRaj](https://github.com/pranjal-raj)|Android|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
 |![divyanshuvarshney](https://avatars.githubusercontent.com/u/72211391?v=4&s=100)|[divyanshuvarshney](https://github.com/Divyanshu-Vareshney)|Web|2|2|Completed `2` with minimum `5` in `GettingStarted`, |
 |![AshishSikarwar](https://avatars.githubusercontent.com/u/114948101?v=4&s=100)|[AshishSikarwar](https://github.com/AshishSikarwar)|IOT|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
 |![AnujGupta](https://avatars.githubusercontent.com/u/106159652?v=4&s=100)|[AnujGupta](https://github.com/seriouslyanuj)|IOT|1|2|Completed `1` with minimum `5` in `GettingStarted`, |
