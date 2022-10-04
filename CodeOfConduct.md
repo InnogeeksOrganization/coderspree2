@@ -15,17 +15,21 @@ diverse, inclusive, and healthy community.
 
 ## Acceptable Behaviour :
 
-1. Only PRs with the designated naming convention and as per the rules of the event will be merged
-2. PRS matching the active issues will be marked as : "hacktoberfest-accepted" and will be merged as a valid hacktober fest contribution.
-3. Commits containing files with extensions : .cpp,.c,.py,.java etc will be accepted.
+1. Respectful behaviour, understanding and patient contributors are welcome.
+2. Helpful and supportive to other fellow contributors and newcomers.
+3. Only PRs with the designated naming convention and as per the rules of the event will be merged
+4. PRS matching the active issues will be marked as : "hacktoberfest-accepted" and will be merged as a valid hacktober fest contribution.
+5. Commits containing files with extensions : .cpp,.c,.py,.java etc will be accepted.
 
 
 ## Unacceptable Behaviour :
 
-1. PRs containing empty files will not be merged.
-2. Plagiarised codes/files will be identified by the maintainers and not be merged.
-3. Any extra files like .txt or .exe files should not be pushed.
-4. Naming of the folders and files should be taken care of.  
+1. Disrespectful behaviour, sexual or violent content does not have a place in this repository.
+2. Any political, controversial, religious, topics hurting sentiments of the other is strictly prohibited.
+3. PRs containing empty files will not be merged.
+4. Plagiarised codes/files will be identified by the maintainers and not be merged.
+5. Any extra files like .txt or .exe files should not be pushed.
+6. Naming of the folders and files should be taken care of.  
 
 
 ## Our Responsibilities
