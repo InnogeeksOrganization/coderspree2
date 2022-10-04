@@ -20,10 +20,10 @@ Minimum problems to complete | **GettingStarted**: `5` |
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1|![AdityaAgarwal](https://avatars.githubusercontent.com/u/99405991?v=4&s=100)|[AdityaAgarwal](https://github.com/QMiNt)|Web|2|13|
-|2|![PranjalRaj](https://avatars.githubusercontent.com/u/103522343?v=4&s=100)|[PranjalRaj](https://github.com/pranjal-raj)|Android|2|12|
-|3|![AryanMishra](https://avatars.githubusercontent.com/u/92439461?v=4&s=100)|[AryanMishra](https://github.com/aryanmishra29)|Android|2|11|
-|4|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|10|
-|5|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|10|
+|2|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|13|
+|3|![PranjalRaj](https://avatars.githubusercontent.com/u/103522343?v=4&s=100)|[PranjalRaj](https://github.com/pranjal-raj)|Android|2|12|
+|4|![AryanMishra](https://avatars.githubusercontent.com/u/92439461?v=4&s=100)|[AryanMishra](https://github.com/aryanmishra29)|Android|2|11|
+|5|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|10|
 |6|![EvaMittal](https://avatars.githubusercontent.com/u/104075769?v=4&s=100)|[EvaMittal](https://github.com/EvaMittal)|Web|2|8|
 |7|![MrigyaSahai](https://avatars.githubusercontent.com/u/82597956?v=4&s=100)|[MrigyaSahai](https://github.com/mrigyasahai)|AR-VR|2|7|
 |8|![TanmaySingh](https://avatars.githubusercontent.com/u/98298849?v=4&s=100)|[TanmaySingh](https://github.com/tansin25)|IOT|2|7|
