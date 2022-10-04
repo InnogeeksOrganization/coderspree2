@@ -7,7 +7,7 @@ int main()
     cin>>n1>>n2;
     a=max(n1,n2);
     b=min(n1,n2);
-    cout<<"gcd = ";
+    cout<<"gcd of 2 numbers = ";
     if(a%b==0)
     cout<<b<<endl;
     else
