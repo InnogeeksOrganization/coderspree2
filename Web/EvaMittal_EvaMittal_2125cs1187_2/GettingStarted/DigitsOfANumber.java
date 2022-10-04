@@ -3,22 +3,22 @@ public class DigitsOfANumber {
     public static void main(String[] args) {
         // write your code here  
          Scanner sc = new Scanner(System.in);
-          long n= sc.nextLong();
+          int n= sc.nextInt();
           sc.close();
-          int c=0;
-          long t,d;
+          int t,d,c=0;
           t=n;
           while(n>0)
           {
               c++;
               n=n/10;
           }
-          while(t>0)
+          while(c>=1||t>0)
           {
-              d= t /(long) Math.pow(10,c-1);
+              d= t /(int) Math.pow(10,c-1);
               System.out.println(d);
-              t= t % (long) Math.pow(10,c-1);
+              t= t % (int) Math.pow(10,c-1);
               c--;
+            
           }
        }
 }
