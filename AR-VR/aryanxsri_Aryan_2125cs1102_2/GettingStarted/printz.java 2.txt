@@ -1,0 +1,19 @@
+import java.util.*;
+
+public class Main {
+
+  public static void main(String[] args) {
+    // Write your code here
+        for(int x=1;x<=5;x++)
+        {
+            for(int y=1;y<=5;y++)
+            {
+                if(x==5||x==1||(x+y)==6)
+                System.out.print("*");
+                else 
+                System.out.print(" ");
+            }
+            System.out.println();
+        }
+  }
+}
