@@ -13,6 +13,6 @@ int main(int argc, char **argv){
         cout<<i<<"\n";
         n=n/10;
     }
-    //done
+    //donee
     
 }

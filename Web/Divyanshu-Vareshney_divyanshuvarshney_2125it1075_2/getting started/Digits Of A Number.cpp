@@ -17,5 +17,5 @@ int main(int argc, char **argv){
         cout<<j<<"\n";
         digit=digit/10;
     }
-    
+    //DONE
 }

@@ -15,5 +15,5 @@ gcd=num2;
 lcm=(t1*t2/gcd);
 cout<<gcd<<"\n";
 cout<<lcm<<"\n";
-    
+//DONE
 }

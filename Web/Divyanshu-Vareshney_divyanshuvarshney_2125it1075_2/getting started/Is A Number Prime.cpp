@@ -21,5 +21,5 @@ int main(int argc, char **argv){
             cout<<"not prime"<<"\n";
         }
     }
-    
+    //DONE
 }
