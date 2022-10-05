@@ -3,6 +3,8 @@ using namespace std;
 int main(){
     int marks;
     cin>>marks;
+    
+    //write your code here
     if(marks>90){
         cout<<"excellent";
     }
