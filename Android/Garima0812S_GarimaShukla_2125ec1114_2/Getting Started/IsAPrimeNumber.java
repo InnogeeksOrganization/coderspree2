@@ -1,7 +1,6 @@
 import java.util.*;
   
   public class Main{
-  
   public static void main(String[] args) {
       Scanner scn = new Scanner(System.in);
   int t=scn.nextInt();
@@ -27,7 +26,5 @@ import java.util.*;
          }
          t--;
      }
-   // write ur code here
-  
    }
   }
