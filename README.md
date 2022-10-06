@@ -46,3 +46,4 @@ Minimum problems to complete | **GettingStarted**: `5` |
 |25|![AnanyaSrivastava](https://avatars.githubusercontent.com/u/107556798?v=4&s=100)|[AnanyaSrivastava](https://github.com/Ananya3632)|Android|2|6|
 |26|![varunagarwal](https://avatars.githubusercontent.com/u/104075461?v=4&s=100)|[varunagarwal](https://github.com/1010varun)|Web|2|6|
 |27|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|5|
+|28|![ShubhiPandey](https://avatars.githubusercontent.com/u/103507502?v=4&s=100)|[ShubhiPandey](https://github.com/Shubhipandey21)|AR-VR|2|5|
