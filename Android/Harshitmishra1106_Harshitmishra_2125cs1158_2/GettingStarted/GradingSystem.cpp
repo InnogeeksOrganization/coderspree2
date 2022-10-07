@@ -13,6 +13,5 @@ int main(){
     cout<<"meets expectations";
     else if(marks<=60)
     cout<<"below par";
-    //write your code here
     return 0;
 }
