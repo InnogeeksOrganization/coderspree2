@@ -3,13 +3,10 @@
 using namespace std;
 int main(int argc, char const *argv[])
 {
-    long int n,a,b,s=0;
+    long int n,a,b;
     cin>>n;
     if(n>=1){while(n!=0){
-        a=n%10;b=n-a;n=b/10;s=10*s+a;
-    }
-    while(s!=0){
-        a=s%10;b=n-a;n=b/10;cout<<a<<endl;
+        a=n%10;b=n-a;n=b/10;cout<<a<<endl;
     }}
     return 0;
 }
