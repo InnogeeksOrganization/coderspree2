@@ -11,7 +11,7 @@ public class Main {
         for(int x=1;x<=n;x++)
         {
             for(int y=1;y<=x;y++)
-            {
+            {}
                 System.out.print((c++)+"\t");
             }
             System.out.println();
