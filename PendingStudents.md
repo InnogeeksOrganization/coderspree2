@@ -22,6 +22,7 @@ Welcome to Coderspree2.0 🔥
 |![EvaMittal](https://avatars.githubusercontent.com/u/104075769?v=4&s=100)|[EvaMittal](https://github.com/EvaMittal)|Web|10|2|Completed `10` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![varunagarwal](https://avatars.githubusercontent.com/u/104075461?v=4&s=100)|[varunagarwal](https://github.com/1010varun)|Web|10|2|Completed `10` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![NehaMaurya](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[NehaMaurya](https://github.com/nag2028)|Web|10|2|Completed `8` with minimum `5` in `GettingStarted`, Completed `2` with minimum `6` in `Patterns`, |
+|![GarimaShukla](https://avatars.githubusercontent.com/u/106160730?v=4&s=100)|[GarimaShukla](https://github.com/Garima0812S)|Android|9|2|Completed `9` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![SnehaAggarwal](https://avatars.githubusercontent.com/u/104908202?v=4&s=100)|[SnehaAggarwal](https://github.com/decode08)|Android|9|2|Completed `9` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![KapilKumarSingh](https://avatars.githubusercontent.com/u/99194553?v=4&s=100)|[KapilKumarSingh](https://github.com/kapilsingh2003)|AR-VR|8|2|Completed `8` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![SambhrantTiwari](https://avatars.githubusercontent.com/u/105651436?v=4&s=100)|[SambhrantTiwari](https://github.com/Cyclotron17)|Android|8|2|Completed `8` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
