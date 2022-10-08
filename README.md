@@ -53,3 +53,4 @@ Minimum problems to complete | **GettingStarted**: `5` |
 |32|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|5|
 |33|![ShubhiPandey](https://avatars.githubusercontent.com/u/103507502?v=4&s=100)|[ShubhiPandey](https://github.com/Shubhipandey21)|AR-VR|2|5|
 |34|![shiv](https://avatars.githubusercontent.com/u/91796347?v=4&s=100)|[shiv](https://github.com/eclos-2002)|IOT|2|5|
+|35|![AbhishekDubey](https://avatars.githubusercontent.com/u/104075277?v=4&s=100)|[AbhishekDubey](https://github.com/Macabre908)|Web|2|5|
