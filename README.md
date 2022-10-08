@@ -45,7 +45,8 @@ Minimum problems to complete | **GettingStarted**: `5` |
 |24|![KapilChaudhary](https://avatars.githubusercontent.com/u/72185805?v=4&s=100)|[KapilChaudhary](https://github.com/chaudharykapil)|IOT|2|6|
 |25|![gurpreetkaur](https://avatars.githubusercontent.com/u/106160092?v=4&s=100)|[gurpreetkaur](https://github.com/gurpreetk12)|IOT|2|6|
 |26|![NiveditaRai](https://avatars.githubusercontent.com/u/114609783?v=4&s=100)|[NiveditaRai](https://github.com/Nivedita-R)|IOT|2|6|
-|27|![AnanyaSrivastava](https://avatars.githubusercontent.com/u/107556798?v=4&s=100)|[AnanyaSrivastava](https://github.com/Ananya3632)|Android|2|6|
-|28|![ShivangiTripathi](https://avatars.githubusercontent.com/u/45894719?v=4&s=100)|[ShivangiTripathi](https://github.com/shivangi2213b)|AR-VR|2|5|
-|29|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|5|
-|30|![ShubhiPandey](https://avatars.githubusercontent.com/u/103507502?v=4&s=100)|[ShubhiPandey](https://github.com/Shubhipandey21)|AR-VR|2|5|
+|27|![AnujGupta](https://avatars.githubusercontent.com/u/106159652?v=4&s=100)|[AnujGupta](https://github.com/seriouslyanuj)|IOT|2|6|
+|28|![AnanyaSrivastava](https://avatars.githubusercontent.com/u/107556798?v=4&s=100)|[AnanyaSrivastava](https://github.com/Ananya3632)|Android|2|6|
+|29|![ShivangiTripathi](https://avatars.githubusercontent.com/u/45894719?v=4&s=100)|[ShivangiTripathi](https://github.com/shivangi2213b)|AR-VR|2|5|
+|30|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|5|
+|31|![ShubhiPandey](https://avatars.githubusercontent.com/u/103507502?v=4&s=100)|[ShubhiPandey](https://github.com/Shubhipandey21)|AR-VR|2|5|
