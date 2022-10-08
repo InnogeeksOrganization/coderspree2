@@ -19,16 +19,16 @@ Minimum problems to complete | **GettingStarted**: `5` |
 
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|1|![Shahnawaz](https://avatars.githubusercontent.com/u/93546124?v=4&s=100)|[Shahnawaz](https://github.com/ShahnawazDev)|AR-VR|2|13|
-|2|![RitikGupta](https://avatars.githubusercontent.com/u/106080811?v=4&s=100)|[RitikGupta](https://github.com/ritikgupta88)|IOT|2|13|
-|3|![ShreyashSrivastava](https://avatars.githubusercontent.com/u/99384516?v=4&s=100)|[ShreyashSrivastava](https://github.com/ShreyashSriv)|Web|2|13|
-|4|![AdityaAgarwal](https://avatars.githubusercontent.com/u/99405991?v=4&s=100)|[AdityaAgarwal](https://github.com/QMiNt)|Web|2|13|
-|5|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|13|
-|6|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|12|
-|7|![PranjalRaj](https://avatars.githubusercontent.com/u/103522343?v=4&s=100)|[PranjalRaj](https://github.com/pranjal-raj)|Android|2|12|
-|8|![kashishalikhan](https://avatars.githubusercontent.com/u/21141610?v=4&s=100)|[kashishalikhan](https://github.com/kashish12)|Web|02|12|
-|9|![RachitavyaSharma](https://avatars.githubusercontent.com/u/84073243?v=4&s=100)|[RachitavyaSharma](https://github.com/rachitavya)|ML|2|11|
-|10|![AryanMishra](https://avatars.githubusercontent.com/u/92439461?v=4&s=100)|[AryanMishra](https://github.com/aryanmishra29)|Android|2|11|
+|1|![AryanMishra](https://avatars.githubusercontent.com/u/92439461?v=4&s=100)|[AryanMishra](https://github.com/aryanmishra29)|Android|2|14|
+|2|![Shahnawaz](https://avatars.githubusercontent.com/u/93546124?v=4&s=100)|[Shahnawaz](https://github.com/ShahnawazDev)|AR-VR|2|13|
+|3|![RitikGupta](https://avatars.githubusercontent.com/u/106080811?v=4&s=100)|[RitikGupta](https://github.com/ritikgupta88)|IOT|2|13|
+|4|![ShreyashSrivastava](https://avatars.githubusercontent.com/u/99384516?v=4&s=100)|[ShreyashSrivastava](https://github.com/ShreyashSriv)|Web|2|13|
+|5|![AdityaAgarwal](https://avatars.githubusercontent.com/u/99405991?v=4&s=100)|[AdityaAgarwal](https://github.com/QMiNt)|Web|2|13|
+|6|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|13|
+|7|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|12|
+|8|![PranjalRaj](https://avatars.githubusercontent.com/u/103522343?v=4&s=100)|[PranjalRaj](https://github.com/pranjal-raj)|Android|2|12|
+|9|![kashishalikhan](https://avatars.githubusercontent.com/u/21141610?v=4&s=100)|[kashishalikhan](https://github.com/kashish12)|Web|02|12|
+|10|![RachitavyaSharma](https://avatars.githubusercontent.com/u/84073243?v=4&s=100)|[RachitavyaSharma](https://github.com/rachitavya)|ML|2|11|
 |11|![varunagarwal](https://avatars.githubusercontent.com/u/104075461?v=4&s=100)|[varunagarwal](https://github.com/1010varun)|Web|2|10|
 |12|![divyanshuvarshney](https://avatars.githubusercontent.com/u/72211391?v=4&s=100)|[divyanshuvarshney](https://github.com/Divyanshu-Vareshney)|Web|2|10|
 |13|![MrigyaSahai](https://avatars.githubusercontent.com/u/82597956?v=4&s=100)|[MrigyaSahai](https://github.com/mrigyasahai)|AR-VR|2|9|
