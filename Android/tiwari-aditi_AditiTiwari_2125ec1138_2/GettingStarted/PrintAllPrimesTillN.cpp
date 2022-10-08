@@ -5,7 +5,6 @@ int main(){
     int low,high,i,j,mid,count;
     cin>>low;
     cin>>high;
-    cout<<"\n";
     for(i=low;i<=high;i++){
         if(i==1)
         continue;
