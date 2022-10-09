@@ -7,7 +7,6 @@ Welcome to Coderspree2.0 🔥
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |![SnehaAggarwal](https://avatars.githubusercontent.com/u/104908202?v=4&s=100)|[SnehaAggarwal](https://github.com/decode08)|Android|18|2|Completed `13` with minimum `5` in `GettingStarted`, Completed `5` with minimum `6` in `Patterns`, |
-|![ShreyashSrivastava](https://avatars.githubusercontent.com/u/99384516?v=4&s=100)|[ShreyashSrivastava](https://github.com/ShreyashSriv)|Web|18|2|Completed `13` with minimum `5` in `GettingStarted`, Completed `5` with minimum `6` in `Patterns`, |
 |![AdityaAgarwal](https://avatars.githubusercontent.com/u/99405991?v=4&s=100)|[AdityaAgarwal](https://github.com/QMiNt)|Web|17|2|Completed `13` with minimum `5` in `GettingStarted`, Completed `4` with minimum `6` in `Patterns`, |
 |![RitikGupta](https://avatars.githubusercontent.com/u/106080811?v=4&s=100)|[RitikGupta](https://github.com/ritikgupta88)|IOT|16|2|Completed `13` with minimum `5` in `GettingStarted`, Completed `3` with minimum `6` in `Patterns`, |
 |![RachitavyaSharma](https://avatars.githubusercontent.com/u/84073243?v=4&s=100)|[RachitavyaSharma](https://github.com/rachitavya)|ML|16|2|Completed `11` with minimum `5` in `GettingStarted`, Completed `5` with minimum `6` in `Patterns`, |
