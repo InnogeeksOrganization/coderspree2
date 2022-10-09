@@ -36,7 +36,6 @@ Welcome to Coderspree2.0 🔥
 |![AnujGupta](https://avatars.githubusercontent.com/u/106159652?v=4&s=100)|[AnujGupta](https://github.com/seriouslyanuj)|IOT|6|2|Completed `6` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![ShivangiTripathi](https://avatars.githubusercontent.com/u/45894719?v=4&s=100)|[ShivangiTripathi](https://github.com/shivangi2213b)|AR-VR|5|2|Completed `5` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![AartiRai](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[AartiRai](https://github.com/GitHubaartiRai)|AR-VR|5|2|Completed `5` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
-|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|5|2|Completed `5` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![ShubhiPandey](https://avatars.githubusercontent.com/u/103507502?v=4&s=100)|[ShubhiPandey](https://github.com/Shubhipandey21)|AR-VR|5|2|Completed `5` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![shiv](https://avatars.githubusercontent.com/u/91796347?v=4&s=100)|[shiv](https://github.com/eclos-2002)|IOT|5|2|Completed `5` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
 |![HarshSingh](https://avatars.githubusercontent.com/u/105795800?v=4&s=100)|[HarshSingh](https://github.com/TheNPDev)|Android|5|2|Completed `5` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
