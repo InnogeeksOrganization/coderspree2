@@ -8,8 +8,11 @@ public class PrintAllPrimesTillN {
     int f;
     for(i=low;i<=high;i++)
     { 
+        if(i<=1)
+        continue;
+
         f=0;
-        for (j=2;j<=i/2;j++)
+        for (j=2;j*j<=i;j++)
         {
             if(i%j==0)
             {

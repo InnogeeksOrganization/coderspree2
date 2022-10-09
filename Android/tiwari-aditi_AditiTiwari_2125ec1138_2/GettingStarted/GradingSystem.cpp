@@ -3,7 +3,6 @@ using namespace std;
 
 int main() {
     int marks;
-    cout<<"Enter marks obtained"<<endl;
     cin>>marks;
     if(marks>90)
         cout<<"excellent";
