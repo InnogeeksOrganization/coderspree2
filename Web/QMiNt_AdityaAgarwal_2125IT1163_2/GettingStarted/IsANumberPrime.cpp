@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int t;
+    cin >> t;
+    int a[t];
+    for (int k = 0; k < t; k++)
+    {
+        int n;
+        cin >> n;
+        a[k] = 0;
+        for (int i = 2; i <= n / 2; i++)
+        {
+            if (n % i == 0)
+            {
+                a[k] = 1;
+                break;
+            }
+        }
+    }
+    for (int j = 0; j < t; j++)
+    {
+        if (a[j] == 1)
+            cout<<"not prime"<<"\n";
+        else
+            cout<<"prime"<<"\n";
+    }
+    return 0;
+}
