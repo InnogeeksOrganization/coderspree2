@@ -8,10 +8,11 @@ int main()
     {
         for(int j=1;j<=n;j++)
         {
-            if(((j>n/2&&j-n/2<=i&&i<=n/2)||(i>n/2&&j>n/2&&n-i+1>=j-n/2)||(i<=n/2&&n/2-i+2<=j&&j<=n/2)||(i>n/2&&j<=n/2+1&&i-n/2<=j))&&j!=1&&j!=n)
-            cout<<"  ";
-            else if(j==1||j==n)
+               if(j==1||j==n||i==1||i==n)
             cout<<"* ";
+           else if(((j>n/2&&j-n/2<=i&&i<=n/2)||(i>n/2&&j>n/2&&n-i+1>=j-n/2)||(i<=n/2&&n/2-i+2<=j&&j<=n/2)||(i>n/2&&j<=n/2+1&&i-n/2<=j))&&j!=1&&j!=n)
+            cout<<"  ";
+          
             else cout<<"* ";
         }
         cout<<endl;
