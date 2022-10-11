@@ -28,7 +28,7 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` |
 |7|![RachitavyaSharma](https://avatars.githubusercontent.com/u/84073243?v=4&s=100)|[RachitavyaSharma](https://github.com/rachitavya)|ML|2|21|
 |8|![SnehaAggarwal](https://avatars.githubusercontent.com/u/104908202?v=4&s=100)|[SnehaAggarwal](https://github.com/decode08)|Android|2|21|
 |9|![EvaMittal](https://avatars.githubusercontent.com/u/104075769?v=4&s=100)|[EvaMittal](https://github.com/EvaMittal)|Web|2|21|
-|10|![divyanshuvarshney](https://avatars.githubusercontent.com/u/72211391?v=4&s=100)|[divyanshuvarshney](https://github.com/Divyanshu-Vareshney)|Web|2|18|
-|11|![Aryan](https://avatars.githubusercontent.com/u/97680841?v=4&s=100)|[Aryan](https://github.com/aryanxsri)|AR-VR|2|17|
-|12|![SukritKaurOberoi](https://avatars.githubusercontent.com/u/106159173?v=4&s=100)|[SukritKaurOberoi](https://github.com/sukritoberoi)|Android|2|16|
+|10|![SukritKaurOberoi](https://avatars.githubusercontent.com/u/106159173?v=4&s=100)|[SukritKaurOberoi](https://github.com/sukritoberoi)|Android|2|20|
+|11|![divyanshuvarshney](https://avatars.githubusercontent.com/u/72211391?v=4&s=100)|[divyanshuvarshney](https://github.com/Divyanshu-Vareshney)|Web|2|18|
+|12|![Aryan](https://avatars.githubusercontent.com/u/97680841?v=4&s=100)|[Aryan](https://github.com/aryanxsri)|AR-VR|2|17|
 |13|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|13|
