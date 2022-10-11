@@ -1,23 +1,20 @@
 import java.util.*;
 
-public class pattern5 {
+public class Main {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
-
+        // write ur code here
         int n=scn.nextInt();
-      for(int i=0; i<n; i++)
-    {
-        for(int j=0; j<Math.abs(n/2-i); j++)
+        for(int i=1;i<=n;i++)
         {
+            for(int j=1;j<=n-i;j++)
             System.out.print("\t");
-        }
-        for(int j=0; j<n-2*Math.abs(n/2-i); j++)
-        {
+            for(int j=i;j>0;j--)
             System.out.print("*\t");
+            System.out.println();
         }
-        System.out.println();
-    }
-    scn.close();
+
+
     }
 }
