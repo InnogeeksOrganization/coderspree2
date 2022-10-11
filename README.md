@@ -21,10 +21,10 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1|![AryanMishra](https://avatars.githubusercontent.com/u/92439461?v=4&s=100)|[AryanMishra](https://github.com/aryanmishra29)|Android|2|33|
 |2|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|32|
-|3|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|28|
-|4|![ShreyashSrivastava](https://avatars.githubusercontent.com/u/99384516?v=4&s=100)|[ShreyashSrivastava](https://github.com/ShreyashSriv)|Web|2|23|
-|5|![AdityaAgarwal](https://avatars.githubusercontent.com/u/99405991?v=4&s=100)|[AdityaAgarwal](https://github.com/QMiNt)|Web|2|23|
-|6|![RitikGupta](https://avatars.githubusercontent.com/u/106080811?v=4&s=100)|[RitikGupta](https://github.com/ritikgupta88)|IOT|2|21|
+|3|![RitikGupta](https://avatars.githubusercontent.com/u/106080811?v=4&s=100)|[RitikGupta](https://github.com/ritikgupta88)|IOT|2|31|
+|4|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|28|
+|5|![ShreyashSrivastava](https://avatars.githubusercontent.com/u/99384516?v=4&s=100)|[ShreyashSrivastava](https://github.com/ShreyashSriv)|Web|2|23|
+|6|![AdityaAgarwal](https://avatars.githubusercontent.com/u/99405991?v=4&s=100)|[AdityaAgarwal](https://github.com/QMiNt)|Web|2|23|
 |7|![RachitavyaSharma](https://avatars.githubusercontent.com/u/84073243?v=4&s=100)|[RachitavyaSharma](https://github.com/rachitavya)|ML|2|21|
 |8|![SnehaAggarwal](https://avatars.githubusercontent.com/u/104908202?v=4&s=100)|[SnehaAggarwal](https://github.com/decode08)|Android|2|21|
 |9|![EvaMittal](https://avatars.githubusercontent.com/u/104075769?v=4&s=100)|[EvaMittal](https://github.com/EvaMittal)|Web|2|21|
