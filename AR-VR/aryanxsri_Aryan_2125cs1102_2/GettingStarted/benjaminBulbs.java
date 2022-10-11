@@ -1,4 +1,5 @@
     //HAD TO LOOK UP FOR THE SOLUTION
+    
 import java.util.*;
 
   public class Main{
@@ -10,5 +11,5 @@ import java.util.*;
       for(int x=1;x*x<=n;x++)
       System.out.println(x*x);
     // write your code here  
-   }
+  }
   }
