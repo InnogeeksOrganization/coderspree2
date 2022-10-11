@@ -6,7 +6,6 @@ Welcome to Coderspree2.0 🔥
 
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|![AdityaAgarwal](https://avatars.githubusercontent.com/u/99405991?v=4&s=100)|[AdityaAgarwal](https://github.com/QMiNt)|Web|17|2|Completed `13` with minimum `5` in `GettingStarted`, Completed `4` with minimum `6` in `Patterns`, |
 |![AditiTiwari](https://avatars.githubusercontent.com/u/106127744?v=4&s=100)|[AditiTiwari](https://github.com/tiwari-aditi)|Android|16|2|Completed `12` with minimum `5` in `GettingStarted`, Completed `4` with minimum `6` in `Patterns`, |
 |![MrigyaSahai](https://avatars.githubusercontent.com/u/82597956?v=4&s=100)|[MrigyaSahai](https://github.com/mrigyasahai)|AR-VR|14|2|Completed `10` with minimum `5` in `GettingStarted`, Completed `4` with minimum `6` in `Patterns`, |
 |![Shahnawaz](https://avatars.githubusercontent.com/u/93546124?v=4&s=100)|[Shahnawaz](https://github.com/ShahnawazDev)|AR-VR|13|2|Completed `13` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, |
