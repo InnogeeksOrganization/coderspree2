@@ -1,7 +1,7 @@
 package coderspear;
 
 import java.util.*;
-public class allprimeno {
+public class PrintFibonacciNumberTillN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int low = sc.nextInt();

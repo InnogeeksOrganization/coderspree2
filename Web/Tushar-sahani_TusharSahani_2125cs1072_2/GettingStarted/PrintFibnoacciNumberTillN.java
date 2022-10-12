@@ -1,7 +1,7 @@
 package coderspear;
 
 import java.util.*;
-public class fibonacii {
+public class PrintFibnoacciNumberTillN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
          int n = sc.nextInt();

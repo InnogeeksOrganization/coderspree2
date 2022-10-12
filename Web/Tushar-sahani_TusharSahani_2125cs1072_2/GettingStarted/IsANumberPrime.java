@@ -2,7 +2,7 @@ package coderspear;
 
 import java.util.*; 
 
-public class isprime {
+public class IsANumberPrime {
     public static void main(String[] args) {
        Scanner scn = new Scanner(System.in);
        int t = scn.nextInt();
