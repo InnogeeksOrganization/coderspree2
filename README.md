@@ -31,4 +31,5 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` |
 |10|![SukritKaurOberoi](https://avatars.githubusercontent.com/u/106159173?v=4&s=100)|[SukritKaurOberoi](https://github.com/sukritoberoi)|Android|2|20|
 |11|![divyanshuvarshney](https://avatars.githubusercontent.com/u/72211391?v=4&s=100)|[divyanshuvarshney](https://github.com/Divyanshu-Vareshney)|Web|2|18|
 |12|![Aryan](https://avatars.githubusercontent.com/u/97680841?v=4&s=100)|[Aryan](https://github.com/aryanxsri)|AR-VR|2|17|
-|13|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|13|
+|13|![Harshitmishra](https://avatars.githubusercontent.com/u/96685336?v=4&s=100)|[Harshitmishra](https://github.com/Harshitmishra1106)|Android|2|15|
+|14|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|13|
