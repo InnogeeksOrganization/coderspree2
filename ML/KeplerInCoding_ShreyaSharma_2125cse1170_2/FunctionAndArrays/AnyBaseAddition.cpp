@@ -11,7 +11,7 @@ int main()
     {
         sum[count]=(n1%10+n2%10+carry)%b;
         carry= (n1%10+n2%10+carry)/b;
-        printf("sum=%d  carry=%d", sum[count], carry);
+
         n1=n1/10;
         n2=n2/10;
         count++;
