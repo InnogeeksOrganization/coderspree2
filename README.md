@@ -33,5 +33,6 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` |
 |12|![SukritKaurOberoi](https://avatars.githubusercontent.com/u/106159173?v=4&s=100)|[SukritKaurOberoi](https://github.com/sukritoberoi)|Android|2|20|
 |13|![divyanshuvarshney](https://avatars.githubusercontent.com/u/72211391?v=4&s=100)|[divyanshuvarshney](https://github.com/Divyanshu-Vareshney)|Web|2|18|
 |14|![TanmaySingh](https://avatars.githubusercontent.com/u/98298849?v=4&s=100)|[TanmaySingh](https://github.com/tansin25)|IOT|2|17|
-|15|![Harshitmishra](https://avatars.githubusercontent.com/u/96685336?v=4&s=100)|[Harshitmishra](https://github.com/Harshitmishra1106)|Android|2|15|
-|16|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|13|
+|15|![TusharSahani](https://avatars.githubusercontent.com/u/104075614?v=4&s=100)|[TusharSahani](https://github.com/Tushar-sahani)|Web|2|16|
+|16|![Harshitmishra](https://avatars.githubusercontent.com/u/96685336?v=4&s=100)|[Harshitmishra](https://github.com/Harshitmishra1106)|Android|2|15|
+|17|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|13|
