@@ -6,6 +6,7 @@ Welcome to Coderspree2.0 🔥
 
 |Profile|Name|Domain|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: | :---: |
+|![Shahnawaz](https://avatars.githubusercontent.com/u/93546124?v=4&s=100)|[Shahnawaz](https://github.com/ShahnawazDev)|AR-VR|33|2|Completed `13` with minimum `5` in `GettingStarted`, Completed `20` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![AryanMishra](https://avatars.githubusercontent.com/u/92439461?v=4&s=100)|[AryanMishra](https://github.com/aryanmishra29)|Android|33|2|Completed `13` with minimum `5` in `GettingStarted`, Completed `20` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![RitikGupta](https://avatars.githubusercontent.com/u/106080811?v=4&s=100)|[RitikGupta](https://github.com/ritikgupta88)|IOT|31|2|Completed `13` with minimum `5` in `GettingStarted`, Completed `18` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|31|02|Completed `13` with minimum `5` in `GettingStarted`, Completed `18` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
@@ -27,7 +28,6 @@ Welcome to Coderspree2.0 🔥
 |![TusharSahani](https://avatars.githubusercontent.com/u/104075614?v=4&s=100)|[TusharSahani](https://github.com/Tushar-sahani)|Web|16|2|Completed `10` with minimum `5` in `GettingStarted`, Completed `6` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![MrigyaSahai](https://avatars.githubusercontent.com/u/82597956?v=4&s=100)|[MrigyaSahai](https://github.com/mrigyasahai)|AR-VR|14|2|Completed `10` with minimum `5` in `GettingStarted`, Completed `4` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![KapilKumarSingh](https://avatars.githubusercontent.com/u/99194553?v=4&s=100)|[KapilKumarSingh](https://github.com/kapilsingh2003)|AR-VR|13|2|Completed `8` with minimum `5` in `GettingStarted`, Completed `5` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
-|![Shahnawaz](https://avatars.githubusercontent.com/u/93546124?v=4&s=100)|[Shahnawaz](https://github.com/ShahnawazDev)|AR-VR|13|2|Completed `13` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
 |![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|13|2|Completed `5` with minimum `5` in `GettingStarted`, Completed `8` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![NandiniMaheshwari](https://avatars.githubusercontent.com/u/93093293?v=4&s=100)|[NandiniMaheshwari](https://github.com/Nandini-Maheshwari)|AR-VR|12|2|Completed `6` with minimum `5` in `GettingStarted`, Completed `6` with minimum `6` in `Patterns`, `FunctionAndArrays` Folder not found, |
 |![PranjalRaj](https://avatars.githubusercontent.com/u/103522343?v=4&s=100)|[PranjalRaj](https://github.com/pranjal-raj)|Android|12|2|Completed `12` with minimum `5` in `GettingStarted`, `Patterns` Folder not found, `FunctionAndArrays` Folder not found, |
