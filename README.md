@@ -20,3 +20,5 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|39|
+|2|![EvaMittal](https://avatars.githubusercontent.com/u/104075769?v=4&s=100)|[EvaMittal](https://github.com/EvaMittal)|Web|2|26|
+|3|![AnanyaSrivastava](https://avatars.githubusercontent.com/u/107556798?v=4&s=100)|[AnanyaSrivastava](https://github.com/Ananya3632)|Android|2|21|
