@@ -21,7 +21,7 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|39|
 |2|![gurpreetkaur](https://avatars.githubusercontent.com/u/106160092?v=4&s=100)|[gurpreetkaur](https://github.com/gurpreetk12)|IOT|2|38|
-|3|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|37|
+|3|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|38|
 |4|![Harshitmishra](https://avatars.githubusercontent.com/u/96685336?v=4&s=100)|[Harshitmishra](https://github.com/Harshitmishra1106)|Android|2|36|
 |5|![NiveditaRai](https://avatars.githubusercontent.com/u/114609783?v=4&s=100)|[NiveditaRai](https://github.com/Nivedita-R)|IOT|2|35|
 |6|![EvaMittal](https://avatars.githubusercontent.com/u/104075769?v=4&s=100)|[EvaMittal](https://github.com/EvaMittal)|Web|2|26|
