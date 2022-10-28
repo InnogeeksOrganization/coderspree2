@@ -26,4 +26,5 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 |5|![NiveditaRai](https://avatars.githubusercontent.com/u/114609783?v=4&s=100)|[NiveditaRai](https://github.com/Nivedita-R)|IOT|2|35|
 |6|![AbhishekDubey](https://avatars.githubusercontent.com/u/104075277?v=4&s=100)|[AbhishekDubey](https://github.com/Macabre908)|Web|2|30|
 |7|![EvaMittal](https://avatars.githubusercontent.com/u/104075769?v=4&s=100)|[EvaMittal](https://github.com/EvaMittal)|Web|2|26|
-|8|![AnanyaSrivastava](https://avatars.githubusercontent.com/u/107556798?v=4&s=100)|[AnanyaSrivastava](https://github.com/Ananya3632)|Android|2|21|
+|8|![SamikshaGupta](https://avatars.githubusercontent.com/u/103514102?v=4&s=100)|[SamikshaGupta](https://github.com/Samikshagp)|AR-VR|2|22|
+|9|![AnanyaSrivastava](https://avatars.githubusercontent.com/u/107556798?v=4&s=100)|[AnanyaSrivastava](https://github.com/Ananya3632)|Android|2|21|
