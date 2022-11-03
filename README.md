@@ -20,10 +20,10 @@ Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **F
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1|![gurpreetkaur](https://avatars.githubusercontent.com/u/106160092?v=4&s=100)|[gurpreetkaur](https://github.com/gurpreetk12)|IOT|2|43|
-|2|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|39|
-|3|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|38|
-|4|![Harshitmishra](https://avatars.githubusercontent.com/u/96685336?v=4&s=100)|[Harshitmishra](https://github.com/Harshitmishra1106)|Android|2|36|
-|5|![NiveditaRai](https://avatars.githubusercontent.com/u/114609783?v=4&s=100)|[NiveditaRai](https://github.com/Nivedita-R)|IOT|2|35|
+|2|![NiveditaRai](https://avatars.githubusercontent.com/u/114609783?v=4&s=100)|[NiveditaRai](https://github.com/Nivedita-R)|IOT|2|40|
+|3|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|39|
+|4|![AlishaRaghav](https://avatars.githubusercontent.com/u/92165013?v=4&s=100)|[AlishaRaghav](https://github.com/alisha0903)|Web|02|38|
+|5|![Harshitmishra](https://avatars.githubusercontent.com/u/96685336?v=4&s=100)|[Harshitmishra](https://github.com/Harshitmishra1106)|Android|2|36|
 |6|![TusharSahani](https://avatars.githubusercontent.com/u/104075614?v=4&s=100)|[TusharSahani](https://github.com/Tushar-sahani)|Web|2|31|
 |7|![AbhishekDubey](https://avatars.githubusercontent.com/u/104075277?v=4&s=100)|[AbhishekDubey](https://github.com/Macabre908)|Web|2|30|
 |8|![VaishnaviSingh](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[VaishnaviSingh](https://github.com/Vaishnavi-Singh20002)|Web|02|26|
