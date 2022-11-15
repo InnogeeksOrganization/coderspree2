@@ -12,13 +12,12 @@ Welcome to Coderspree2.0 🔥
 **Please visit the [Guide](./Guide/README.md)**  
 
 
-Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **FunctionAndArrays**: `5` |   
+Minimum problems to complete | **GettingStarted**: `5` | **Patterns**: `6` | **FunctionAndArrays**: `5` | **2DArrays**: `4` |   
 
 # Stats
   
 
 |No|Profile|Name|Domain|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|1|![ShreyaSharma](https://avatars.githubusercontent.com/u/97353931?v=4&s=100)|[ShreyaSharma](https://github.com/KeplerInCoding)|ML|2|39|
-|2|![EvaMittal](https://avatars.githubusercontent.com/u/104075769?v=4&s=100)|[EvaMittal](https://github.com/EvaMittal)|Web|2|26|
-|3|![AnanyaSrivastava](https://avatars.githubusercontent.com/u/107556798?v=4&s=100)|[AnanyaSrivastava](https://github.com/Ananya3632)|Android|2|21|
+|1|![Shahnawaz](https://avatars.githubusercontent.com/u/93546124?v=4&s=100)|[Shahnawaz](https://github.com/ShahnawazDev)|AR-VR|2|43|
+|2|![AryanMishra](https://avatars.githubusercontent.com/u/92439461?v=4&s=100)|[AryanMishra](https://github.com/aryanmishra29)|Android|2|42|
