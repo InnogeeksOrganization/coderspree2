@@ -27,3 +27,4 @@ int main()
 
   if (!searchMatrix(mat, target,n)) cout << "Not Found\n";
 }
+  
